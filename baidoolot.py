@@ -1,0 +1,1 @@
+print('Hello Sultan baike!')
